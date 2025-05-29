@@ -27,7 +27,7 @@ Frameworks: Django, ASP.NET Core, Flutter
 AI & Vision: OpenCV, YOLO, Deep Learning
 Databases: PostgreSQL, MongoDB, MySQL, MariaDB
 DevOps & Tools: Git, Docker, REST APIs, Fusion360, AutoCAD
-
+```
 
 | Proje                               | Teknolojiler               | Açıklama                                                                             |
 | ----------------------------------- | -------------------------- | ------------------------------------------------------------------------------------ |
