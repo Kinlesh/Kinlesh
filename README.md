@@ -25,8 +25,8 @@ I am a passionate software engineer with hands-on experience in artificial intel
 Languages: Python, C++, C#, JavaScript, Dart
 Frameworks: Django, ASP.NET Core, Flutter
 AI & Vision: OpenCV, YOLO, Deep Learning
-Databases: PostgreSQL, MongoDB, MySQL, MariaDB
-DevOps & Tools: Git, Docker, REST APIs, Fusion360, AutoCAD
+Databases: PostgreSQL, MongoDB, MySQL,
+DevOps & Tools: Git, REST APIs, Fusion360, AutoCAD
 ```
 
 | Proje                               | Teknolojiler               | Açıklama                                                                             |
