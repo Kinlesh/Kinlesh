@@ -40,7 +40,7 @@ DevOps & Tools: Git, Docker, REST APIs, Fusion360, AutoCAD
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Kinlesh&show_icons=true&theme=tokyonight" alt="GitHub Stats" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kinlesh&layout=compact&theme=tokyonight" alt="Top Languages" /> </p>
 
 📫 Bana Ulaş:
-📧 Mail: enescanenginsoy@hotmail.com / enescanenginsoy@gmail.com
-💼 LinkedIn: linkedin.com/in/enescanenginsoy
+-📧 Mail: enescanenginsoy@hotmail.com / enescanenginsoy@gmail.com
+-💼 LinkedIn: linkedin.com/in/enescanenginsoy
 
-📍 Denizli, Türkiye
+-📍 Denizli, Türkiye
